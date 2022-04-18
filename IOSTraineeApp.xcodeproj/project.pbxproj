@@ -11,6 +11,7 @@
 		C44B0CCC280AFFB300D39D9D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C44B0CCB280AFFB300D39D9D /* ContentView.swift */; };
 		C44B0CCE280AFFB500D39D9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C44B0CCD280AFFB500D39D9D /* Assets.xcassets */; };
 		C44B0CD1280AFFB500D39D9D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C44B0CD0280AFFB500D39D9D /* Preview Assets.xcassets */; };
+		C44B0CDA280B162400D39D9D /* ElectionPictureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C44B0CD9280B162400D39D9D /* ElectionPictureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C44B0CCB280AFFB300D39D9D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C44B0CCD280AFFB500D39D9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C44B0CD0280AFFB500D39D9D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C44B0CD9280B162400D39D9D /* ElectionPictureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElectionPictureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C44B0CC9280AFFB300D39D9D /* IOSTraineeAppApp.swift */,
 				C44B0CCB280AFFB300D39D9D /* ContentView.swift */,
+				C44B0CD9280B162400D39D9D /* ElectionPictureView.swift */,
 				C44B0CCD280AFFB500D39D9D /* Assets.xcassets */,
 				C44B0CCF280AFFB500D39D9D /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C44B0CCC280AFFB300D39D9D /* ContentView.swift in Sources */,
+				C44B0CDA280B162400D39D9D /* ElectionPictureView.swift in Sources */,
 				C44B0CCA280AFFB300D39D9D /* IOSTraineeAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
